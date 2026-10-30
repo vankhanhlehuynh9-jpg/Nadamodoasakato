@@ -200,7 +200,7 @@
        ========================================== -->
   <!-- THAY THẾ LINK 'src' BẰNG ĐƯỜNG DẪN ÂM THANH CỦA BẠN -->
   <audio id="bg-music" loop autoplay>
-    <source src="sound/background-music.mp3" type="audio/mpeg">
+    <source src="b84661dcd63fa90f0d9de65adb314e93.mp4" type="audio/mpeg">
   </audio>
 
   <div id="game-container">
@@ -300,10 +300,10 @@
        Hãy thay các link bên dưới bằng file ảnh của bạn
        ========================================== */
     const CAT_IMAGES = {
-      BACK: 'https://placekitten.com/200/200',        // 1. Hình ảnh mèo quay lưng
-      FRONT: 'https://placekitten.com/201/200',       // 2. Hình ảnh mèo quay mặt lại
-      WEED: 'https://placekitten.com/202/200',        // 3. Hình ảnh mèo phê cỏ / đang ăn / chơi len
-      PHONE: 'https://placekitten.com/203/200'        // 4. Hình ảnh mèo xem điện thoại
+      BACK: 'Messenger_creation_87363CC6-81AC-4A27-B1B6-A71A26E2108A.jpeg',        // 1. Hình ảnh mèo quay lưng
+      FRONT: 'Messenger_creation_CFD5CA99-7601-4461-B619-A9A6B72F7869.png',       // 2. Hình ảnh mèo quay mặt lại
+      WEED: '8f33a750c677fe8212c86b86e7390455.jpg',        // 3. Hình ảnh mèo phê cỏ / đang ăn / chơi len
+      PHONE: '688d692156fa83219634cd9128a9139a.jpg'        // 4. Hình ảnh mèo xem điện thoại
     };
 
     // Quản lý biến trạng thái Game
